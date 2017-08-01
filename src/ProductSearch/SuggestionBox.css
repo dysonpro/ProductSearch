@@ -9,13 +9,13 @@ ul.SuggestionBox{
     width:100%;
     border:1px solid #CCC;
     cursor:default;
+    box-shadow: 3px 5px 3px #EFEFEF;
 }
 
 ul.SuggestionBox li {
     text-overflow: ellipsis;
     white-space:nowrap;
     overflow:hidden;
-    border:1px solid #EEE;
     padding:0.1em 0;
     font-weight:bold;
 }
