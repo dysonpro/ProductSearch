@@ -38,19 +38,6 @@ export default class ProductSearch extends React.Component {
         });
         if (e) {return false;}
     }
-  /*
-  componentDidMount() {
-    this.loadData(this.props.dataURL);
-  }
-  
-  loadData (url){
-   window.jQuery.ajax({
-      method:"GET",
-      url:url
-    }).done( (data) => {console.log("done",url,data)})
-
-  }
-*/
   
   handleKeyUp(e){
     let pos = this.cursorPosition;
