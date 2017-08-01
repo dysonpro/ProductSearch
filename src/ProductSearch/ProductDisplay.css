@@ -1,0 +1,13 @@
+
+.ProductDisplay-container {
+    margin-top:2em;
+    font-size:0.9em;
+    color:#666;
+}
+.ProductDisplay-button {
+    font-size:1.5em;
+    background-color: #99BBFF;
+    border-radius: 15px;
+    padding:0.2em 0.5em;
+    cursor:pointer;
+}

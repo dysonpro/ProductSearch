@@ -1,0 +1,20 @@
+.FilterRadioButtons-container {
+    margin:20px auto;
+}
+.FilterRadioButtons-container label{
+    margin:0 4px;
+}
+.FilterRadioButtons-heading {
+    color:#666;
+    font-size:0.9em;
+    text-indent: 10px;
+}
+@media screen and (max-width:480px) {
+    .FilterRadioButtons-container {
+        text-align:left;
+        width:150px;
+    }
+    .FilterRadioButtons-container label{
+        display:block;
+    }
+}

@@ -1,0 +1,8 @@
+.SearchBar {
+    width:100%;
+    font-size:inherit;
+    font-style:italic;
+    color:#000;
+    background-color: #CFD9FA;
+    border-radius:5px;
+}

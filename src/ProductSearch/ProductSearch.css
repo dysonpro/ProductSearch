@@ -1,0 +1,16 @@
+
+.ProductSearch-container {
+    width:100%;
+    max-width:480px;
+    height:500px;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+}
+
+.ProductSearch-clear {
+    font-size:0.8em;
+    color:#888;
+    text-decoration: underline;
+    cursor:pointer;
+}
